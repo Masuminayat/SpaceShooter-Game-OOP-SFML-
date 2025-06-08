@@ -38,7 +38,7 @@ Concepts: OOP (Encapsulation, Inheritance, Polymorphism, Abstraction), Game Stat
 
 🎮 How to Play
 Clone the repository:
-git clone https://github.com/yourusername/space-shooter-game.git
+git clone (https://github.com/Masuminayat/SpaceShooter-Game-OOP-SFML)
 Compile the project using your C++ IDE or CMake (SFML 2.6.2 must be installed and linked).
 
 Run the executable:
